@@ -26,3 +26,133 @@ D:\Friends ASP .Net Project\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.dl
 D:\Friends ASP .Net Project\FriendsApi\FriendsApi\obj\Debug\net5.0\ref\FriendsApi.dll
 D:\Friends ASP .Net Project\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.pdb
 D:\Friends ASP .Net Project\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.genruntimeconfig.cache
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\appsettings.json
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\FriendsApi.exe
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\FriendsApi.deps.json
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\FriendsApi.runtimeconfig.json
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\FriendsApi.runtimeconfig.dev.json
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\FriendsApi.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\ref\FriendsApi.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\FriendsApi.pdb
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Humanizer.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.csproj.AssemblyReference.cache
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.AssemblyInfoInputs.cache
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.AssemblyInfo.cs
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.csproj.CoreCompileInputs.cache
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\scopedcss\bundle\FriendsApi.styles.css
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\staticwebassets\FriendsApi.StaticWebAssets.Manifest.cache
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.RazorTargetAssemblyInfo.cache
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.csproj.CopyComplete
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\ref\FriendsApi.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.pdb
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.genruntimeconfig.cache
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Data\UserSeedData.json
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Data\UserSeedData.json
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\FriendsApi.exe
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\FriendsApi.deps.json
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\FriendsApi.runtimeconfig.json
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\FriendsApi.runtimeconfig.dev.json
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\FriendsApi.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\FriendsApi.pdb
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.csproj.AssemblyReference.cache
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.AssemblyInfoInputs.cache
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.AssemblyInfo.cs
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.csproj.CoreCompileInputs.cache
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\scopedcss\bundle\FriendsApi.styles.css
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\staticwebassets\FriendsApi.StaticWebAssets.Manifest.cache
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.RazorTargetAssemblyInfo.cache
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.csproj.CopyComplete
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\refint\FriendsApi.dll
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.pdb
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\FriendsApi.genruntimeconfig.cache
+C:\Users\Local Admin\Desktop\Abed\FriendsDattingApp\FriendsApi\FriendsApi\obj\Debug\net5.0\ref\FriendsApi.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\AutoMapper.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\CloudinaryDotNet.dll
+D:\Friends ASP .Net Project\FriendsDattingApp\FriendsApi\FriendsApi\bin\Debug\net5.0\Newtonsoft.Json.dll
